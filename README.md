@@ -1,4 +1,20 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+at+ITMO)](https://git.io/typing-svg)
+
+
+<div id="badges">
+  <a href="mailto:kud2501@mail.ru">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://t.me/baroftwinkie">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
+
+
+
+
+
 
 <!--
 **Twinkiesss/Twinkiesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +26,14 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+How to reach me:
+
+<img src="https://github.com/user-attachments/assets/da5791c9-4d56-4bea-bc37-4a79354c388f" alt="image" width="20"/> @baroftwinkie
+
+<img src="https://github.com/user-attachments/assets/336cdb81-8108-4278-a0f2-4569c32ad177" alt="image" width="20"/> kud2501@mail.ru
+
 -->
