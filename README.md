@@ -1,9 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Welcome%20to%20Twinkiesss'%20GitHub%20Universe!&fontSize=30&animation=fadeIn&fontAlignY=38&desc=Where%20Passion%20Meets%20Code&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=256&section=header&text=Welcome%20to%20Twinkiesss'%20GitHub%20Universe!&fontSize=30&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Computer+science+student+at+ITMO)](https://git.io/typing-svg)
 
- **"You don’t understand things. You just get used to them."**  
- — *John Von Neumann*
+ 
 
 <div id="badges">
   <a href="mailto:kud2501@mail.ru">
@@ -20,7 +19,8 @@
 
 <!--
 **Twinkiesss/Twinkiesss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+**"You don’t understand things. You just get used to them."**  
+ — *John Von Neumann*
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
